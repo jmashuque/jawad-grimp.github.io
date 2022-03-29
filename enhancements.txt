@@ -1,0 +1,7 @@
+We added several image functions in addition to the required: Auto Contrast, Blur, Equalize, Find Edges, Flip, Invert, Sharpen, and Smooth. Our Red-eye function uses a complex algorithm to preserve colour data. The program has support for reading/writing to the most common image formats.
+
+We added undo/redo functions for any modifications. There are prompts for saving when an image is discarded without saving.
+
+We included a statusbar, which provides context-sensitive help, mouse coordinates, and selection rectangle dimensions. We made an eyedropper tool which picks out the colour of a selected pixel and displays its colour data on the toolbar. The selection rectangle accessible to almost every image function, so changes can be made to only part of an image.
+
+We made the program look professional and closely resembling other image editors, hence most users should be familiar with the layout. We also streamlined the design using custom icons and logos.
